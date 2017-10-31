@@ -1,0 +1,9 @@
+C:\Users\sup-dmsvel\Downloads\GAuth-master\GAuth-master\Api\bin\Debug\Api.dll
+C:\Users\sup-dmsvel\Downloads\GAuth-master\GAuth-master\Api\bin\Debug\Api.pdb
+C:\Users\sup-dmsvel\Downloads\GAuth-master\GAuth-master\Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sup-dmsvel\Downloads\GAuth-master\GAuth-master\Api\bin\Debug\Payloads.dll
+C:\Users\sup-dmsvel\Downloads\GAuth-master\GAuth-master\Api\bin\Debug\Payloads.pdb
+C:\Users\sup-dmsvel\Downloads\GAuth-master\GAuth-master\Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sup-dmsvel\Downloads\GAuth-master\GAuth-master\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+C:\Users\sup-dmsvel\Downloads\GAuth-master\GAuth-master\Api\obj\Debug\Api.dll
+C:\Users\sup-dmsvel\Downloads\GAuth-master\GAuth-master\Api\obj\Debug\Api.pdb

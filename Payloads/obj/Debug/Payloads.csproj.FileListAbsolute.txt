@@ -1,0 +1,4 @@
+C:\Users\sup-dmsvel\Downloads\GAuth-master\GAuth-master\Payloads\bin\Debug\Payloads.dll
+C:\Users\sup-dmsvel\Downloads\GAuth-master\GAuth-master\Payloads\bin\Debug\Payloads.pdb
+C:\Users\sup-dmsvel\Downloads\GAuth-master\GAuth-master\Payloads\obj\Debug\Payloads.dll
+C:\Users\sup-dmsvel\Downloads\GAuth-master\GAuth-master\Payloads\obj\Debug\Payloads.pdb
